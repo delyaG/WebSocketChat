@@ -14,6 +14,7 @@ hs_err_pid*
 .project
 .classpath
 .springBeans
+Websockets/src/main/resources/
 **/target/
 /commit.txt
 /*/logs/
